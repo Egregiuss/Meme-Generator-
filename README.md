@@ -22,9 +22,9 @@ Then navigate to the localhost on your browser
 
 - Running python3 meme.py from your command line
 ```bash
---path path to the image
---body message for the meme
---author if available,author of the message
+--path : path to the image
+--body: message for the meme
+--author: if available,author of the message
 
 N.B- The three arguments are optional
 ```
