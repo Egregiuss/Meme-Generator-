@@ -13,7 +13,7 @@
 ## Installation
 There are two ways to run the application. 
 - Running flask with app.py 
-1 Run the code below in your terminal
+--- Run the code below in your terminal
 ```bash
  export FLASK_APP=app.py
 flask run --host localhost --port 3000 --reload
